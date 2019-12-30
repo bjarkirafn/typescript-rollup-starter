@@ -1,4 +1,4 @@
-import sucrase from 'rollup-plugin-sucrase'
+import sucrase from '@rollup/plugin-sucrase'
 import pkg from './package.json'
 import { terser } from 'rollup-plugin-terser'
 
